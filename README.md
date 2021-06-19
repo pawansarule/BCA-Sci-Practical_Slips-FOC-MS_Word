@@ -18,7 +18,7 @@ Q4. Create Word document for displaying Notice to student for Technical Event on
 
 Q5. Create Word document for advertisement of different types of Laptops. Make a use of Bullets for displaying details of Laptops. Use Auto shape Banner for creating advertisement.
 
-Q6. Create word document for writing an Invitation letter to Chief Guest. Your college has started New Android Course. You are supposed to invite the Chief Guest for ‘Inaugural Function’ by writing letter.
+Q6. Create Word document for writing an Invitation letter to Chief Guest. Your college has started New Android Course. You are supposed to invite the Chief Guest for ‘Inaugural Function’ by writing letter.
 
 Q7. Use mail merge feature in Microsoft Word to prepare a letter for inviting friends for a trip to Shimla. Some of friends are planning a trip to Shimla. We will leave for Shimla on 13th August and return on 18th August. We have already booked a guesthouse in Shimla. The total expenditure per head is expected to be Rs. 5000. If you are interested in joining us, please inform me before 5th August so that we can make necessary arrangements.
 Regards, Rohit Kumar

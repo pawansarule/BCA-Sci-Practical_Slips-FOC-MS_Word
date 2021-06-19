@@ -4,7 +4,7 @@ This repository contens the Practical slips solution of FY BCA(Sci) Sem-1 2019 C
 
 # Microsoft Word
 
-Q1. Create a word document to add various shapes with colors and text options. Also perform Following steps:
+Q1. Create a Word document to add various shapes with colors and text options. Also perform Following steps:
 1) Add border to this pages.
 2) Add watermark as “Draft” to the document.
 

@@ -46,6 +46,6 @@ Q13. Using Word write a letter to your friend informing him about paint. Discuss
 
 Q14. On Word write a leave application to your College Principal asking for 3 days holiday, as you have to attend ‘Ganapati festival’ at Hometown. Create a table for 3 days function, you will be attending. You will be marked on font, font size, letter format, tabbing, line spacing & table.
 
-Q15. Draw a flowchart to calculate area and perimeter of Rectangle by using auto shape in Word.
+Q15. Draw a Flowchart to calculate area and perimeter of Rectangle by using auto shape in Word.
 
 Q16. Draw a flowchart to calculate area of circle by accepting radius from user by using auto shape in Word.
